@@ -36,10 +36,6 @@ The project is divided into two parts: `springRest` and `springInternal`. The `s
 - To access the `springRest` project, go to: [SpringRest](https://github.com/kostas-tsouko/SpringRest)<br>
 - To access the `springInternal` project, go to: [SpringInternal](https://github.com/Tsouko/SpringInternal)<br><br>
 
-## Credits<br><br>
-
-This project was made during my third year of my university, Harokopeio Department of Informatics and Telematics.
-
 ## Screenshots
 
 Here are some screenshots of the project:
@@ -58,3 +54,7 @@ Here are some screenshots of the project:
 
 [![update-job-offer-ekswteriko.png](https://i.postimg.cc/JhJS3vdC/update-job-offer-ekswteriko.png)](https://postimg.cc/mcLdBXsm)
 *This screenshot shows the form that companies can use to update their existing job offers.Once the company has made their changes, they can submit the form to update the offer in the system.*<br><br><br>
+
+## Credits<br><br>
+
+This project was made during my third year of my university, Harokopeio Department of Informatics and Telematics.
